@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/577
     wikipedia: http://www.online-literature.com/myrtle-reed/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37680#The-Myrtle-Reed-Cook-Book
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2011-10-10'
 gutenberg_type: Text
