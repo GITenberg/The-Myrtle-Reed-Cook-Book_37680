@@ -1,0 +1,39 @@
+_repo: The-Myrtle-Reed-Cook-Book_37680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Myrtle
+    alias: Green, Olive
+    birthdate: 1874
+    deathdate: 1911
+    gutenberg_agent_id: '577'
+    url: http://www.gutenberg.org/2009/agents/577
+    wikipedia: http://www.online-literature.com/myrtle-reed/
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37680'
+  lccn: '16022114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+tableOfContents: The philosophy of breakfast -- How to set the table -- The kitchen
+  Rubaiyat -- Fruits -- Cereals -- Salt fish -- Breakfast meats -- Substitutes for
+  meat -- Eggs -- Omelets -- Quick breads -- Raised breakfast breads -- Pancakes --
+  Coffee cakes, doughnuts, and waffles -- Breakfast beverages -- Simple salads --
+  One hundred sandwich fillings -- Luncheon beverages -- Eating and dining -- Thirty-five
+  canapés -- One hundred simple soups -- Fifty ways to cook shell-fish -- Sixty ways
+  to cook fish -- One hundred and fifty ways to cook meat and poultry -- Twenty ways
+  to cook potatoes -- One hundred and fifty ways to cook other vegetables -- Thirty
+  simple sauces -- One hundred and fifty salads -- Simple desserts.
+title: The Myrtle Reed Cook Book
+url: http://www.gutenberg.org/ebooks/37680
